@@ -1,0 +1,202 @@
+{
+  "lang": "en",
+  "home": "Home",
+  "about": "About",
+  "tour": "Packages",
+  "contacts": "Contacts",
+  "banner": {
+    "title": "Explore the World with Us",
+    "description": "We always try to make our customer Happy. We provide all kind of facilities. Your Satisfaction is our main priority",
+    "explore": "Explore More"
+  },
+  "os": {
+    "title": "Our Service",
+    "f": {
+      "t": "Ticket Booking",
+      "d": "We book all kind of national or international ticket for your destination."
+    },
+    "s": {
+      "t": "Hotel Booking",
+      "d": "You can easily book your according to your budget hotel by our website."
+    },
+    "t": {
+      "t": "Tour Plan",
+      "d": "We provide you the best plan within a short time explore more."
+    }
+  },
+  "ss": {
+    "title": "We always try to give you the best service",
+    "desc": "We always try to make our customers happy. We provide all kinds of facilities. Your satisfaction is our main priority.",
+    "ys": "Years of Experience",
+    "ht": "Happy Travellers",
+    "pv": "Places Visited",
+    "th": "Travel History"
+  },
+  "bestPackages": "Best Packages For You",
+  "pricePerPerson": "$/Person",
+  "Visa": {
+    "title": "Visa support",
+    "desc": "Experience stress-free travel with our expert visa support. We provide seamless assistance and comprehensive guidance, ensuring a smooth journey.",
+    "Benefits": {
+      "title": "Benefits of our Visa Support service:",
+      "price": "Best Prices",
+      "time": "Short Processing Time",
+      "assistance": "Trustworthy Assistance"
+    },
+    "countries": {
+      "China": "China",
+      "HongKong": "Hong Kong",
+      "European": "European(Schengen)",
+      "India": "India",
+      "Japan": "Japan",
+      "SaudiArabia": "Saudi Arabia",
+      "Oman": "Oman"
+    }
+  },
+  "TravelDeals": {
+    "title": "Explore Destinations with Ease",
+    "desc": "Find the best deals on railway and airplane tickets in each city, carefully selected for you.",
+    "train": {
+      "title": "Cheap Railway Tickets With Us",
+      "desc": "Embark on a railway adventure and explore destinations worldwide. Whether it's the picturesque landscapes, bustling cities, or cultural gems, our rail services offer a unique and comfortable way to traverse the globe. Immerse yourself in the beauty of different cultures, all accessible through our extensive railway network."
+    },
+    "plane": {
+      "title": "Discover Exciting Air Travel Deals",
+      "desc": "Embark on an airborne adventure and explore destinations worldwide. Whether it's the breathtaking landscapes, vibrant cities, or cultural treasures, our airline services provide a convenient and exhilarating way to navigate the globe. Immerse yourself in the richness of diverse cultures, all easily accessible through our extensive air travel network."
+    },
+    "ww": "Whole world",
+    "gd": "Global Destinations"
+  },
+  "cities_title": "Visit One Of Our Countries Now",
+  "cities_desc": "Discover the best offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences.",
+  "km": "Know More",
+  "Cities": [
+    {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "desc": "Discover the luxury and modernity of Dubai with iconic landmarks and extravagant shopping.",
+      "day": "3 day 2 night",
+      "price": "$500/Person",
+      "image": "https://zamontour.uz/assets/images/dubai2.jpg"
+    },
+    {
+      "city": "Antalya",
+      "country": "Turkey",
+      "desc": "Immerse yourself in the beaches and historical sites of beautiful Antalya.",
+      "link": "Learn more...",
+      "day": "3 day 2 night",
+      "price": "$600/Person",
+      "image": "https://zamontour.uz/assets/images/country-02.jpg"
+    },
+    {
+      "city": "Sharm El-Sheikh",
+      "country": "Egypt",
+      "desc": "Relax and enjoy the stunning Red Sea in Sharm El-Sheikh, perfect for diving enthusiasts.",
+      "day": "3 day 2 night",
+      "price": "$800/Person",
+      "image": "https://zamontour.uz/assets/images/sharm2.jpg"
+    },
+    {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "desc": "Experience the rich cultural history of Istanbul, where East meets West.",
+      "day": "3 day 2 night",
+      "price": "$550/Person",
+      "image": "https://zamontour.uz/assets/images/istanbul3.jpg"
+    }
+  ],
+  "inters": "Need Directions?",
+  "reserve": {
+    "choose": "Choose what you like",
+    "book": "Make a reservation",
+    "learn_more": "Learn more...",
+    "phone_number": "Phone number",
+    "email_us": "Contact us by email",
+    "visit_us": "Visit our office",
+    "address": "15/25, Chilanzar - 9, Tashkent city"
+  },
+  "forum": {
+    "formTitle": "Make Your Reservation Through This Form",
+    "fields": {
+      "name": {
+        "label": "Your Name",
+        "placeholder": "Ex. John Smithee"
+      },
+      "phoneNumber": {
+        "label": "Your Phone Number",
+        "placeholder": "Ex. +99899 999 99 99"
+      },
+      "numberOfGuests": {
+        "label": "Number Of Guests",
+        "placeholder": "Ex. 3 or 4 or 5"
+      },
+      "checkInDate": {
+        "label": "Check In Date"
+      },
+      "destination": {
+        "label": "Choose Your Destination",
+        "options": [
+          "Antalya",
+          "Istanbul",
+          "Dubai",
+          "Sharm El-Sheikh",
+          "Kuala Lumpur",
+          "Canada",
+          "England"
+        ]
+      },
+      "visaSupport": {
+        "label": "Choose Your Visa Support",
+        "options": [
+          "USA",
+          "Europe",
+          "England",
+          "Japan",
+          "Oman",
+          "Saudi Arabia",
+          "India",
+          "China",
+          "Hong Kong"
+        ]
+      }
+    },
+    "submitButton": "Make Your Reservation Now"
+  },
+  "footer": {
+    "h1": "Are You Looking To Travel ?",
+    "p": "Make A Reservation By Clicking The Button",
+    "a": "Book Yours Now"
+  },
+  "not_found": {
+    "header": "404",
+    "message": "Page Not Found",
+    "return_button": "Return To Home"
+  },
+  "commentsHeader": "What People Say About Us",
+  "comments": [
+    {
+      "name": "Alisher Ismailov",
+      "image": "https://randomuser.me/api/portraits/men/32.jpg",
+      "comment": "Our trip to Turkey was perfectly organized by the agency. They handled everything smoothly!",
+      "background": "https://zamontour.uz/assets/images/saudi.jpg"
+    },
+    {
+      "name": "Dilnoza Karimova",
+      "image": "https://randomuser.me/api/portraits/women/85.jpg",
+      "comment": "We had an amazing time in Egypt, all thanks to the great service and attention to detail by the team.",
+      "background": "https://zamontour.uz/assets/images/sharm.jpg"
+    },
+    {
+      "name": "Bekzod Rasulov",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg",
+      "comment": "The Dubai tour was a dream come true. This agency made it hassle-free and enjoyable.",
+      "background": "https://zamontour.uz/assets/images/oman.jpg"
+    },
+    {
+      "name": "Laylo Ahmedova",
+      "image": "https://randomuser.me/api/portraits/women/67.jpg",
+      "comment": "Fantastic service! Our trip to Istanbul was unforgettable, thanks to this tour agency.",
+      "background": "https://zamontour.uz/assets/images/istanbul.jpg"
+    }
+  ]
+}

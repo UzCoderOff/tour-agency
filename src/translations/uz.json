@@ -1,0 +1,201 @@
+{
+  "lang": "uz",
+  "home": "Bosh Sahifa",
+  "about": "Biz Haqimizda",
+  "tour": "Paketlar",
+  "contacts": "Kontaktlar",
+  "banner": {
+    "title": "Biz Bilan Dunyoni Sayoxat Qiling",
+    "description": "Biz har doim mijozimizni xursand qilishga harakat qilamiz. Biz barcha turdagi qulayliklar bilan ta'minlaymiz. Sizning mamnunligimiz bizning asosiy ustuvorligimizdir",
+    "explore": "Ko'proq Bilish..."
+  },
+  "os": {
+    "title": "Bizning xizmatimiz",
+    "f": {
+      "t": "Chipta bron qilish",
+      "d": "Biz sizning manzilingiz uchun barcha turdagi milliy yoki xalqaro chiptalarni bron qilamiz."
+    },
+    "s": {
+      "t": "Mehmonxonani bron qilish",
+      "d": "Siz bizning veb-saytimizda o'zingizning byudjetingiz bo'yicha mehmonxonangizni osongina bron qilishingiz mumkin."
+    },
+    "t": {
+      "t": "Sayohat rejasi",
+      "d": "Ko'proq sayohat qilish uchun qisqa vaqt ichida sizga eng yaxshi rejani taqdim etamiz."
+    }
+  },
+  "ss": {
+    "title": "Biz har doim sizga eng yaxshi xizmatni taqdim etishga harakat qilamiz",
+    "desc": "Biz har doim mijozlarimizni xursand qilishga harakat qilamiz. Biz barcha turdagi qulayliklar bilan ta'minlaymiz. Sizning mamnunligimiz bizning asosiy ustuvorligimizdir.",
+    "ys": "Yillik tajriba",
+    "ht": "Baxtli sayohatchilar",
+    "pv": "tashrif buyurilgan joylar",
+    "th": "Sayohat tarixi"
+  },
+  "bestPackages": "Siz uchun eng yaxshi paketlar",
+  "daysNights": "3 kun, 2 kecha",
+  "pricePerPerson": "$/Odam",
+  "Visa": {
+    "title": "Viza olishga yordam beramiz",
+    "desc": "Biz sizga oson, tez fursatda va albatta ishonchli viza olishga yordam beramiz.",
+    "Benefits": {
+      "title": "Benefits of our Visa Support service:",
+      "price": " Best Prices",
+      "time": " Short Processing Time",
+      "asistance": " Trustworthy Assistance"
+    },
+    "countries": {
+      "China": "China",
+      "Hong Kong": "Hong Kong",
+      "European": "European(Schengen)",
+      "India": "India",
+      "Japan": "Japan",
+      "Saudi Arabia": "Saudi Arabia",
+      "Oman": "Oman"
+    }
+  },
+  "TravelDeals": {
+    "title": "Chiptalarni biz bilan arzon va oson toping",
+    "desc": "Har bir shaharda eng yaxshi temir yo‘l va aviachipta biletlarini biz bilan toping",
+    "train": {
+      "title": "Temir Yo‘l Biletleri Biz Bilan",
+      "desc": "Temir yo'l orqali biz bilan sarguzashtlarni kashf eting! Baland tog'larni, betakror tabiat manzalarni, qadimiy va navqiron shaharlarni, takrorlanmas landshaflarni biz bilan birga toping. Qiziqarlimi? Biz bilan bog'laning."
+    },
+    "plane": {
+      "title": "Aviabiletlar Biz Bilan Arzon",
+      "desc": "Eng arzon, qulay, xavfsiz aviabiletlar biz bilan! Bizga bog'laning, biz sizga eng maqbul bo'ladigan aviabilerni topib beramiz"
+    },
+    "ww": "Butun dunyo bo'ylab  ",
+    "gd": "Jahon bo‘ylab Manzillar"
+  },
+  "cities_title": "Shaharlardan biriga hoziroq tashrif buyuring",
+  "cities_desc": "Har bir shahardagi eng yaxshi takliflarimizni kashf eting, faqat siz uchun. O'zingiz uchun yangi dunyosni oching va misli ko'rilmagan sarguzashtlar ega bo'ling.",
+  "km": "Ko'proq bilish",
+  "Cities": [
+    {
+      "city": "Dubai",
+      "country": "Birlashgan Arab Amirliklari",
+      "desc": "Dubayning hashamatli va zamonaviyligini diqqatga sazovor joylar va ekstravagant xaridlar bilan kashf eting.",
+      "day": "3 kun 2 kecha",
+      "narx": "$500/KishiBoshiga",
+      "image": "https://zamontour.uz/assets/images/dubai2.jpg"
+    },
+    {
+      "city": "Antalya",
+      "country": "Turkiya",
+      "desc": "Antaliyaning go'zal plyajlari va tarixiy joylariga sho'ng'in.",
+      "day": "3 kun 2 kecha",
+      "narx": "$600/KishiBoshiga",
+      "image": "https://zamontour.uz/assets/images/country-02.jpg"
+    },
+    {
+      "city": "Sharm El-Sheikh",
+      "country": "Misr",
+      "desc": "Sho'ng'in ishqibozlari uchun juda mos bo'lgan Sharm al-Shayxdagi ajoyib Qizil dengizda dam oling va zavqlaning.",
+      "day": "3 kun 2 kecha",
+      "narx": "$800/KishiBoshiga",
+      "image": "https://zamontour.uz/assets/images/sharm2.jpg"
+    },
+    {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "desc": "Sharq va G'arb tutashgan Istanbulning boy madaniy tarixini boshdan kechiring.",
+      "day": "3 kun 2 kecha",
+      "narx": "$550/KishiBoshiga",
+      "image": "https://zamontour.uz/assets/images/istanbul3.jpg"
+    }
+  ],
+  "inters": "Qiziqarlimi? ",
+  "reserve": {
+    "choose": "O'zingiz yoqtirganingizni tanlang",
+    "book": "O'z joyingizni band qiling",
+    "learn_more": "Ko'proq Bilish...",
+    "phone_number": "Telefon raqam",
+    "email_us": "Bizga email orqali bog'laning",
+    "visit_us": "Ofisimizga tashrif buyuring",
+    "address": "15/25, Chilanzar - 9, Tashkent city"
+  },
+  "forum": {
+    "formTitle": "Rezervatsiyani bu shakl orqali amalga oshiring",
+    "fields": {
+      "name": {
+        "label": "Ismingiz",
+        "placeholder": "Masalan, John Smithee"
+      },
+      "phoneNumber": {
+        "label": "Telefon raqamingiz",
+        "placeholder": "Masalan, +99899 999 99 99"
+      },
+      "numberOfGuests": {
+        "label": "Mehmonlar soni",
+        "placeholder": "Masalan, 3 yoki 4 yoki 5"
+      },
+      "checkInDate": {
+        "label": "Kirish sanasi"
+      },
+      "destination": {
+        "label": "Manzilingizni tanlang",
+        "options": [
+          "Antalya",
+          "Istanbul",
+          "Dubai",
+          "Sharm El-Sheikh",
+          "Kuala Lumpur",
+          "Kanada",
+          "Angliya"
+        ]
+      },
+      "visaSupport": {
+        "label": "Visa yordamini tanlang",
+        "options": [
+          "AQSH",
+          "Evropa",
+          "Angliya",
+          "Yaponiya",
+          "Oman",
+          "Saudiya Arabistoni",
+          "Hindiston",
+          "Xitoy",
+          "Gonkong"
+        ]
+      }
+    },
+    "submitButton": "Band Qilish"
+  },
+  "footer": {
+    "h1": "Sayohat qilishni xohlaysizmi?",
+    "p": "Unda biz bilan hoziroq bog'laning",
+    "a": "Bog`lanish"
+  },
+  "form": {
+    "success": "Forum muvaffaqiyatli topshirildi!",
+    "close": "Yopish"
+  },
+  "commentsHeader": "Odamlar Biz haqimizda Qanday Fikr bildirishadi",
+  "comments": [
+    {
+      "name": "Alisher Ismoilov",
+      "image": "https://randomuser.me/api/portraits/men/32.jpg",
+      "comment": "Turkiyaga sayohatimiz agentlik tomonidan mukammal tashkil etildi. Ular hamma narsani silliq hal qildilar!",
+      "background": "https://zamontour.uz/assets/images/saudi.jpg"
+    },
+    {
+      "name": "Dilnoza Karimova",
+      "image": "https://randomuser.me/api/portraits/women/85.jpg",
+      "comment": "Misrda ajoyib vaqt o'tkazdik, barchasi jamoaning ajoyib xizmati va e'tibori tufayli.",
+      "background": "https://zamontour.uz/assets/images/sharm.jpg"
+    },
+    {
+      "name": "Bekzod Rasulov",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg",
+      "comment": "Dubay safari men uchun orzu edi. Ushbu agentlik uni muammosiz va maroqli o'tkazdi.",
+      "background": "https://zamontour.uz/assets/images/oman.jpg"
+    },
+    {
+      "name": "Laylo Ahmedova",
+      "image": "https://randomuser.me/api/portraits/women/67.jpg",
+      "comment": "Ajoyib xizmat! Istanbulga safarimiz ushbu sayohat agentligi tufayli unutilmas bo'ldi.",
+      "background": "https://zamontour.uz/assets/images/istanbul.jpg"
+    }
+  ]
+}
